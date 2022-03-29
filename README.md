@@ -28,6 +28,10 @@ on the map...
 
 Meshtastic device must be connected via serial port (via USB).
 
+## Installation
+
+Meshtastic-python project must be installed previously (so `meshtastic` python module must be available).
+Also `sqlite3` and google's `pubsub` modules needs to be installed too.
 
 ## Links
 
